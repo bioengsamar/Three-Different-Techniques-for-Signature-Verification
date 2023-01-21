@@ -2,4 +2,4 @@
 
 ## 1st Technique is Signature-Verification_System_using_YOLOv5-and-CycleGAN
 
-![pipline](Images/pipline.png)
+![pipline](./Images/pipline.png)
