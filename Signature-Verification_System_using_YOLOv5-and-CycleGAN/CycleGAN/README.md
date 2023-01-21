@@ -36,11 +36,9 @@ To continue training after you stop the training, use `--continue_train` and set
 eg: `--continue_train --epoch_count 110` will resume the training from epoch 110.
   
   
-The model can translate the image in both directions (noisy to clean and clean to noisy). For our use case, we have to translate from noisy to clean. So after training, copy the latest Generator(B) `/checkpoints/model_name/latest_net_G_B.pth` as `latest_net_G.pth` under `/checkpoints/model_name/latest_net_G.pth`.
-Use `cp ./checkpoints/horse2zebra/latest_net_G_B.pth ./checkpoints/horse2zebra/latest_net_G.pth` (see under testing section)
+The model can translate the image in both directions (noisy to clean and clean to noisy). For our use case, we have to translate from noisy to clean. So after training, copy the latest Generator(B) `/checkpoints/model_name/latest_net_G_B.pth` as `latest_net_G.pth` under `/checkpoints/model_name/latest_net_G.pth`. (see under testing section)
   
   
-**I recommend you to refer [here](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/docs/tips.md) and [here](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/docs/qa.md). These will helps to clear a good amount of doubts and errors. Also I recommend you to go through the issues section of the repo if you faces any errors or doubts. Legend has it that you will find the solution for your miseries there.**  
   
   
 ## Testing the model
