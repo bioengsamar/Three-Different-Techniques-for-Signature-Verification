@@ -4,11 +4,11 @@
 #### This system works in three phases.
 ![Pipeline](Images/pipeline.png)
 
-#### Signature Detection
+#### Signature Detection using YOLOv5
 ![DetectionExample](Images/detection_from_document.jpg) 
 
-#### Signature Cleaning
+#### Signature Cleaning using CycleGAN
 !['Gan Example Real'](Images/cleaning.jpg)  
 
-#### Signature Verification
+#### Signature Verification using Siamese Networks
 ![siamese_model_working](Images/verify.png) 
