@@ -20,3 +20,6 @@
 ![cross attantion](Images/SAM.png)
 #### Soft Attention
 ![soft attantion](Images/CAM.png)
+
+### The second technique is Signature Detection using Machine Learning (ML) 
+![ML](Images/ML.PNG)
