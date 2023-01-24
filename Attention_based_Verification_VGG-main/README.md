@@ -8,7 +8,7 @@ The proposed system makes handwriting verification using VGG16 architecture ans 
 
 # Datasets
 
-![Dataset](../../Images/Dataset.png)
+![dataset](../../Images/Dataset.png)
 
 - Handwritten "AND": https://github.com/mshaikh2/HDL_Forensics
 - CEDAR Signature: http://www.cedar.buffalo.edu/NIJ/data
