@@ -12,3 +12,11 @@
 
 #### Signature Verification using Siamese Networks
 ![siamese_model_working](Images/verify.png) 
+
+### The second technique is Attention based Handwriting Verification using VGG16:
+#### The proposed system makes handwriting verification using VGG16 architecture ans soft attantion inaddition to cross attention to extract the most important features.
+![Attention with vgg16](Images/model.png)
+#### Cross Attention
+![cross attantion](Images/SAM.png)
+#### Soft Attention
+![soft attantion](Images/CAM.png)
