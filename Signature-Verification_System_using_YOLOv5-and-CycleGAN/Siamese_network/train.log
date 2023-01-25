@@ -1,0 +1,23 @@
+Epoch 1 - avg_train_loss: 0.1712  time: 1606s
+Epoch 1 - Save Best Loss: 0.1712 Model
+Epoch 2 - avg_train_loss: 0.0574  time: 1564s
+Epoch 2 - Save Best Loss: 0.0574 Model
+Epoch 3 - avg_train_loss: 0.0308  time: 1557s
+Epoch 3 - Save Best Loss: 0.0308 Model
+Epoch 4 - avg_train_loss: 0.0171  time: 1553s
+Epoch 4 - Save Best Loss: 0.0171 Model
+Epoch 5 - avg_train_loss: 0.0135  time: 1574s
+Epoch 5 - Save Best Loss: 0.0135 Model
+Epoch 6 - avg_train_loss: 0.0136  time: 1588s
+Epoch 7 - avg_train_loss: 0.0399  time: 1585s
+Epoch 8 - avg_train_loss: 0.0410  time: 1562s
+Epoch 9 - avg_train_loss: 0.0370  time: 1583s
+Epoch 10 - avg_train_loss: 0.0275  time: 1565s
+Epoch 11 - avg_train_loss: 0.0175  time: 1551s
+Epoch 12 - avg_train_loss: 0.0104  time: 1573s
+Epoch 12 - Save Best Loss: 0.0104 Model
+Epoch 13 - avg_train_loss: 0.0099  time: 1558s
+Epoch 13 - Save Best Loss: 0.0099 Model
+Epoch 14 - avg_train_loss: 0.0080  time: 1549s
+Epoch 14 - Save Best Loss: 0.0080 Model
+Epoch 15 - avg_train_loss: 0.0246  time: 1536s
