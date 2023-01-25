@@ -21,5 +21,5 @@
 #### Soft Attention
 ![soft attantion](Images/CAM.png)
 
-### The third technique is Signature Detection using Machine Learning (ML) 
+### The third technique is Signature Detection by combining Deep Learning (DL) and Machine Learning (ML) 
 ![ML](Images/ML.png)
